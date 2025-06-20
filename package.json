@@ -2,6 +2,8 @@
   "name": "calendar-clone",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Samalasaivivek48.github.io/react-calender",
+
   "dependencies": {
     "@fullcalendar/daygrid": "^6.1.17",
     "@fullcalendar/interaction": "^6.1.17",
